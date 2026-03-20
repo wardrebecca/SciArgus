@@ -1,118 +1,51 @@
-bioRxiv
 arXiv
-EcoEvoRxiv
 EarthArXiv
+ESSOAr
+EGUsphere
 OSF Preprints
 Nature
 Science
 Proceedings of the National Academy of Sciences
-Nature Communications
-Science Advances
-PLOS One
-Scientific Reports
-Current Biology
-Proceedings of the Royal Society B: Biological Sciences
-One Earth
-PeerJ
-eLife
-Cell
-iScience
-Nature Ecology & Evolution
 Nature Climate Change
 Nature Geoscience
-Nature Machine Intelligence
-Nature Sustainability
-Nature Plants
-Nature Water
-Nature Computational Science
-Scientific Data
-Nature Methods
-Trends in Ecology & Evolution
-Annual Review of Ecology, Evolution, and Systematics
-Annual Review of Environment and Resources
-Annual Review of Earth and Planetary Sciences
-Biological Reviews
 Nature Reviews Earth & Environment
-Ecology Letters
+Nature Communications
+Science Advances
+One Earth
+Global Environmental Change
+Journal of Geophysical Research: Atmospheres
+Geophysical Research Letters
+Global Biogeochemical Cycles
+Earth and Space Science
+Atmospheric Chemistry and Physics
+Atmospheric Measurement Techniques
+Biogeosciences
+Earth System Dynamics
+Geoscientific Model Development
+Atmospheric Environment
+Environmental Research Letters
 Global Change Biology
-Conservation Letters
-Journal of Applied Ecology
-Conservation Biology
-Biological Conservation
-Ecological Applications
-Methods in Ecology and Evolution
-Ecology
-Journal of Ecology
-Oikos
-Oecologia
-Diversity and Distributions
-Global Ecology and Biogeography
-Functional Ecology
-Landscape Ecology
-Ecosystems
-Frontiers in Ecology and the Environment
-The American Naturalist
-Ecography
-Biodiversity and Conservation
-Animal Conservation
-Perspectives in Plant Ecology, Evolution and Systematics
-Basic and Applied Ecology
-Plant Ecology
-Evolutionary Applications
-Journal of Animal Ecology
-Journal of Biogeography
-Restoration Ecology
-Urban Ecosystems
-Biological Invasions
-Biotropica
-Conservation Science and Practice
-Ecological Monographs
-Ecological Indicators
-Marine Ecology Progress Series
-Freshwater Biology
-Forest Ecology and Management
-Wildlife Research
-Wildlife Society Bulletin
-The Journal of Wildlife Management
-Oryx
 Biogeochemistry
-Ecological Modelling
+Journal of Advances in Modeling Earth Systems
+Earth System Science Data
 Remote Sensing of Environment
 ISPRS Journal of Photogrammetry and Remote Sensing
 IEEE Transactions on Geoscience and Remote Sensing
-International Journal of Applied Earth Observation and Geoinformation
-IEEE Geoscience and Remote Sensing Letters
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-Remote Sensing Letters
-Remote Sensing Applications: Society and Environment
-Remote Sensing in Ecology and Conservation
-ISPRS International Journal of Geo-Information
-Journal of Machine Learning Research
-Journal of Artificial Intelligence Research
-Environmental Data Science
+Atmospheric Measurement Techniques (also here)
+Remote Sensing
+Remote Sensing of Ecology and Conservation
+Geoscientific Model Development
 Environmental Modelling & Software
-Ecological Informatics
-Environmental Research Letters
+Earth System Dynamics
+Journal of Advances in Modeling Earth Systems
 Science of The Total Environment
 Journal of Environmental Management
-Global Environmental Change
-Earth System Dynamics
-Global Biogeochemical Cycles
-Journal of Environmental Informatics
-Ecological Economics
-Ecosystem Services
 Environmental Science & Policy
-Journal of Environmental Economics and Management
-Review of Environmental Economics and Policy
-Environmental and Resource Economics
+Ecological Indicators
+Journal of Machine Learning Research
+Environmental Data Science
 Advances in Neural Information Processing Systems
 International Conference on Machine Learning
 International Conference on Learning Representations
-Proceedings of the AAAI Conference on Artificial Intelligence
-Ecology and Society
-People and Nature
-Ambio
-Geoscientific Model Development
-Big Earth Data
-Bioacoustics
-National Bureau of Economic Research
+Copernicus Conferences (EGU General Assembly)
+AGU Fall Meeting
