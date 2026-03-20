@@ -1,26 +1,33 @@
-#Machine Learning and AI
-Research on the use of machine learning and AI to advance the measurement and monitoring of biodiversity and conservation efforts. This includes the development of new foundation models across modalities (such as text, remote sensing, and images) with conservation applications, as well as novel benchmarks that measure AI capabilities in this field. Additionally, we welcome thought leadership and perspectives on the promises and perils of integrating AI into conservation practices.
+#Methane Inversions and Atmospheric Constraints
+Research focused on top-down estimation of methane (CH4) emissions using atmospheric inversions. This includes Bayesian analytical inversions, variational methods, and ensemble-based approaches that assimilate surface, aircraft, and satellite observations (e.g., TROPOMI, GOSAT). Particular interest lies in how observational constraints shape posterior fluxes, differences between satellite and surface inversions, and the role of transport model errors. Studies that quantify regional or global CH4 budgets, trends, and source attribution using inverse modelling are highly relevant. Methods for evaluating atmospheric inversions, including statistical diagnostics, sensitivity tests, robustness analysis, and observing system simulation experiments (OSSEs). Includes comparison with independent datasets, assessment of model–data mismatch, and frameworks for uncertainty quantification. 
 
-#Causal Impact Estimation
-Impact evaluations of conservation interventions and their resulting biodiversity outcomes. Submissions should encompass both methodological developments and practical applications, with a particular interest in spatial impact evaluation and the use of causal machine learning (ML).
+#Data Assimilation Systems for Greenhouse Gases
+I am developing a methane data assimilation system that combines eddy-covariance data from Arctic-boreal ecosystems with in-situ measurements to simultaneously optimise process model parameters from JSBACH-HIMMELI and methane fluxes. So I am interested in the development and application of data assimilation systems for CH4 and CO2, including coupled frameworks that optimise both fluxes and model parameters. This includes ensemble smoothers, sequential vs batch approaches, and hybrid systems combining ecosystem models with atmospheric inversions (e.g., CCDAS/CTDAS-like systems). Interest includes system architecture, state vector design, parameter estimation, and integration of multiple observation types within a unified framework.
 
-#Biodiversity Monitoring
-Research on in situ biodiversity monitoring utilizing technologies such as acoustics, environmental DNA (eDNA), and camera traps. There is a specific focus on multi-modal approaches used simultaneously to quantify integrated biodiversity patterns at large spatial scales.
+#Prior Fluxes and Uncertainty Propagation in Inversions
+Research investigating the role of prior emissions in atmospheric inversions, including sensitivity to prior choice, error covariance structures, and propagation of uncertainties into posterior estimates. This includes comparisons of bottom-up inventories (e.g., wetlands, fossil fuels, biomass burning), quantification of prior dependence, and methods for reducing bias or overconfidence in inversion results.
 
-#Remote Sensing of Biodiversity
-Research into the application of remote sensing for the quantification of biodiversity and ecosystems at both local and global scales. This encompasses all sensor technologies—including drones, airborne and satellite LiDAR, radar, and optical sensors (particularly hyperspectral). Topics should cover the development of new sensor technologies, the creation of novel algorithms for ecosystem monitoring, and advancements in leveraging existing sensors to derive critical biodiversity information.
+#Observations of Methane from both satellite and in-situ measurements.
+Use of satellite remote sensing to observe atmospheric methane concentrations and inform emission estimates. This includes retrievals from instruments such as TROPOMI and GOSAT, their uncertainties, biases, spatial coverage, and information content. Also in-situ measurements from towers or flux measurements such as from EC are relevant, I want to know if there are new measurements out there to use in inversions. Or if there are important updates to measurements or problems/biases found. Global and regional observation systems such as ICOS, NOAA, AGAGE, WMO GGW are all of interest.
 
-#Conservation Science
-Thought leadership and perspectives on the current state of conservation science, including evaluations of what is and is not working in global implementation and policy. This section welcomes reflections on the directions taken by conservation actors (governments, NGOs, and private entities), analyses of past successes and failures, and strategic visions for the future of the field.
+#Isotopic and Radiocarbon Constraints on Methane Sources and Sinks
+Use of isotopic (e.g., δ13C-CH4, δD-CH4) and radiocarbon measurements to constrain methane sources, sinks, and atmospheric lifetime. This includes isotopic inversion frameworks, source signature assumptions, and the role of isotopes in separating biogenic and thermogenic emissions. Studies combining isotopes with traditional concentration-based inversions are of interest.
 
-#Biodiversity Markets
-Research discussing the development and application of biodiversity markets, including offsets, biodiversity credits, voluntary markets, and compliance markets. We seek critiques of how these markets are evolving, perspectives on the prerequisites for well-functioning markets, and reviews of both existing markets and the structural conditions required for their success.
+#Methane Budget, Trends, and Attribution
+Research quantifying global and regional methane budgets, including long-term trends,and attribution to different source sectors (wetlands, inland and freshwaters, fossil fuels, agriculture, biomass burning). Includes synthesis studies, inversion-based estimates, and comparisons between top-down and bottom-up approaches. Double counting of wetlands and inland-waters is of particular interest. 
 
-#Ecological Condition
-Papers discussing the concept of ecological condition and its quantification. This includes the introduction of new datasets, critical analyses of existing data, and applications of these datasets to novel questions at global or local scales (provided local datasets are used to generate new, scalable frameworks or approaches). We also welcome discussions on how ecological condition is operationalized and how it feeds into global agreements, such as the Global Biodiversity Framework, or efforts to quantify and commoditize biodiversity.
+#Methane Sinks and Atmospheric Chemistry
+Understanding methane removal processes, particularly oxidation by OH radicals, as well as contributions from stratospheric loss and soil uptake. Includes studies constraining OH variability, methane lifetime, and feedbacks between CH4 and atmospheric chemistry. Joint source–sink inversions and observational constraints on sinks are relevant.
 
-#Global Biodiversity Data
-Papers that analyze global biodiversity datasets to generate new insights into macro-ecological patterns and processes. This section also includes research detailing the development of new global biodiversity datasets or novel biodiversity indicators.
+#Arctic-boreal/high-latitude methane dynamics
+My main study region is the Arctic, so methane dynamics and processes impacting sources and sinks of methane in the region are of interest. Permafrost, peatlands, wetlands, lakes and rivers wtc. 
 
-#Savanna and Grassland Ecology
-Papers contributing significant information to our fundamental understanding of savanna and grassland ecology, including their critical role in the broader Earth system. Submissions should highlight the unique functioning of these ecosystems and how they are influenced by natural and anthropogenic disturbances, such as fire and herbivory.
+#Transport Models and Model Error
+Role of atmospheric transport models in inversions, including representation errors, boundary conditions, and transport uncertainty. Includes evaluation of transport performance and its impact on inferred methane fluxes. Both Eulerian and LPDM transport models are important. Stratospheric transport. 
+
+#Other greenhouse gases
+Methane is my main topic, but I want to know about important updated in the field of other greenhouses gases relevant for policy such as CO2 and N2O. Particularly about inversion systems, observations and budgets. I may one day study these gases so I need to stay in the loop and understand their processes.
+
+#Methane from the tropics and Congo
+I am interested in updates to methane emissions and inversion studies in these regions as I may be studying this later. I would like to know about new projects, measurements, process understanding, transport modelling and inversions in the region. The Congo-Flex project and IM4CA project are relevant.
+
